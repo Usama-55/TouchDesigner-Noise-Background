@@ -61,9 +61,8 @@ Rotation
 
 Scale
 
-Other operator parameters
+Other operator parameters.
 
-The result is a dynamic, evolving system driven entirely by channel data.
 
 👤 Author
 
